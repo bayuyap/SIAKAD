@@ -20,4 +20,4 @@
 
 ![alt text](hapus.PNG)
 
-![alt text](Update Data.PNG)
+![alt text](Update.PNG)
